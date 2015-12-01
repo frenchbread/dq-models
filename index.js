@@ -2,13 +2,13 @@ var Models = require('./lib/');
 
 /*
  Models available:
- 1. Account (mongoose, passportLocalMongoose)
- 2. Article (mongoose)
- 3. Project (mongoose)
- 4. Watcher (mongoose)
- 5. Task (mongoose)
- 6. Hour (mongoose)
- 7. Booking (mongoose)
+ 1. Account
+ 2. Article
+ 3. Project
+ 4. Watcher
+ 5. Task
+ 6. Hour
+ 7. Booking
  */
 
 module.exports = Models;
