@@ -11,4 +11,4 @@ var Models = require('./lib/');
  7. Booking
  */
 
-module.exports = Models;
+module.exports = require('mongoose');
