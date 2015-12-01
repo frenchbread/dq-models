@@ -1,0 +1,26 @@
+{
+  "name": "dq-models",
+  "version": "0.0.1",
+  "description": "Models lib for dq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frenchbread/dq-models.git"
+  },
+  "keywords": [
+    "dq",
+    "models"
+  ],
+  "author": "Damir Mustafin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/frenchbread/dq-models/issues"
+  },
+  "homepage": "https://github.com/frenchbread/dq-models#readme",
+  "dependencies": {
+    "mongoose": "^4.2.8"
+  }
+}
