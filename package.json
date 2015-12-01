@@ -20,7 +20,5 @@
     "url": "https://github.com/frenchbread/dq-models/issues"
   },
   "homepage": "https://github.com/frenchbread/dq-models#readme",
-  "dependencies": {
-    "mongoose": "^4.2.8"
-  }
+  "dependencies": {}
 }
