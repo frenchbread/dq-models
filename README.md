@@ -2,6 +2,12 @@
 
 Mongoose extension with schema handler.
 
+### Insalling manually:
+
+```
+$ npm i git+https://frenchbread:pass@github.com/frenchbread/dq-models.git
+```
+
 ### Models available:
 
 1. `Account`
