@@ -1,6 +1,6 @@
 {
   "name": "@frenchbread/dq-models",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Models lib for dq",
   "main": "index.js",
   "scripts": {
