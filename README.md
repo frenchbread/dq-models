@@ -8,7 +8,7 @@ Mongoose extension with schema handler.
 $ npm i git+https://frenchbread:pass@github.com/frenchbread/dq-models.git
 ```
 
-### Update geo db:
+### Update geo db under its `node_modules`:
 
 ```
 $ npm run-script updatedb
