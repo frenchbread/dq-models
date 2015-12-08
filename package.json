@@ -1,6 +1,6 @@
 {
   "name": "@frenchbread/dq-models",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "description": "Models lib for dq",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/frenchbread/dq-models#readme",
   "dependencies": {
     "geoip-lite": "^1.1.6",
-    "mongoose": "^4.2.8",
+    "mongoose": "^4.2.10",
     "passport-local-mongoose": "^3.1.0"
   },
   "devDependencies": {}
