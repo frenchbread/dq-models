@@ -43,5 +43,15 @@ var Hour = M.model('Hour');
 var Booking = M.model('Booking');
 
 ```
+
+### Init warcher
+
+```javascript
+// watcher
+app.use(function (req, res, next) {
+    Watcher.watch('project_name', req);
+    next();
+});
+```
 -
 > Coded by DM.
