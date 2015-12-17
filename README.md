@@ -44,7 +44,7 @@ var Booking = M.model('Booking');
 
 ```
 
-### Init warcher
+### Init watcher
 
 ```javascript
 // watcher
