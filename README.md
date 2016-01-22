@@ -49,6 +49,12 @@ var Booking = M.model('Booking');
 ```javascript
 // watcher
 app.use(function (req, res, next) {
+    
+    // If no authentication module provided, use:
+    req.isAuthenticated = function () {
+        return false;
+    };
+
     Watcher.watch('project_name', req);
     next();
 });
