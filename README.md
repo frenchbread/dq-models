@@ -59,5 +59,6 @@ app.use(function (req, res, next) {
     next();
 });
 ```
--
-> Coded by DM.
+
+## License
+[MIT](https://github.com/frenchbread/dq-models/blob/master/LICENSE.md)
